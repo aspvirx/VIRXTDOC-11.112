@@ -1,60 +1,6 @@
-VirX.Net Software Innovations Inc.
 
-\[\[\[DOCUMENT TITLE\]\]\]
 
-\[\[\[Version\]\]\]
-
- \[\[\[DATE\]\]\]
-
-\[\[\[PROJECT NAME\]\]\]
-
-Draft 1
-
-\[\[\[Author Name\]\]\]
-
-\[\[\[Author E-mail\]\]\]
-
-<span id="anchor"></span>Revision History
-=========================================
-
-  -- -- -- --
-  -- -- -- --
-
-<span id="anchor-1"></span>Introduction
-=======================================
-
-<span id="anchor-2"></span>Document Format
-------------------------------------------
-
-This document adheres to the VIRXTDOC-11.112 documenting standard. The
-VIRXTDOC-11.112 format is a simplified technical documenting scheme
-developed by VirX.Net Software Innovations Inc. It has been designed to
-help simplify complicated technical specifications so that they can be
-easily understood by both non-technical (non-tech savvy) stakeholders
-and developers alike. Please see the [Document Format
-Specification](#6.5.Document Format Specification|outline) section at
-the end of this document for more details.
-
-<span id="anchor-3"></span>Purpose
-----------------------------------
-
-...
-
-<span id="anchor-4"></span>Project Scope
-----------------------------------------
-
-...
-
-<span id="anchor-5"></span>Definitions, Acronyms, and Abbreviations
--------------------------------------------------------------------
-
-  ------ ------------
-  ------ ------------
-
-<span id="anchor-6"></span>Overall Description
-==============================================
-
-<span id="anchor-7"></span>Document Format Specification
+### Document Format Specification
 --------------------------------------------------------
 
 This document adheres to the VIRXTDOC-11.112 documenting standard. The
@@ -64,7 +10,7 @@ help simplify complicated technical specifications so that they can be
 easily understood by both non-technical (non-tech savvy) stakeholders
 and developers alike.
 
-### <span id="anchor-8"></span>Philosophy 
+### Philosophy 
 
 The purpose of any technical document is to communicate, record and
 exchange information among associated parties to achieve (or maintain) a
@@ -78,7 +24,7 @@ theoretical data. Attributes and characteristics may be outlined in
 multilevel ordered lists. Keeping things simple and easy to replicate is
 fundamental.
 
-### <span id="anchor-9"></span>Structure
+### Structure
 
 \*Must contain a global header with a unique/descriptive title and
 footer with page info.
@@ -107,7 +53,7 @@ footer with page info.
 7.  Document Format Specification: a copy of the document format
     specification you are reading now.
 
-### <span id="anchor-10"></span>Content Style Guidelines
+### Content Style Guidelines
 
 1.  Explain technical information in a fluid story-like format to
     elaborate abstract specifications and theoretical data.
